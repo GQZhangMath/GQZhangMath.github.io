@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Guoqiang Zhang</h1>
+      <h1>Guoqiang Zhang（张国强）</h1>
       <p><b>Assistant Professor</b></p>
       <p><b>Key Lab of Mathematics Mechanization, Academy of Mathematics and Systems Science, Chinese Academy of Sciences</b></p>
       <p><b>Email: gqzhang(AT)amss(DOT)ac(DOT)cn</b></p>
@@ -28,6 +28,11 @@ Mathematical Physics and Integrable Systems
 
 * 2021.07-present,  Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 * 2019.07-2021.07,  Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
+
+### Awards
+
+* 2021 Outstanding Ph.D. Thesis Award of Chinese Academy of Sciences（中国科学院优秀博士学位论文）
+* 2009 President Award of Chinese Academy of Sciences（中国科学院院长优秀奖）
 
 ### Publications
 
