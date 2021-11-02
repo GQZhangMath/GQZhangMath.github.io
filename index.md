@@ -35,7 +35,7 @@
 * 2019.07--2021.07:&nbsp; Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
 
 
-### Awards
+### Honors and Awards
 
 * 2021 Outstanding Ph.D. Thesis Award of Chinese Academy of Sciences（中国科学院优秀博士学位论文）
 * 2019 President Award of Chinese Academy of Sciences（中国科学院院长优秀奖）
