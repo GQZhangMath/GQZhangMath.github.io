@@ -1,4 +1,4 @@
-## Welcome to Guoqiang Zhang's Pages
+# Welcome to Guoqiang Zhang's Pages
 
 <table border="0">
   <tr>
