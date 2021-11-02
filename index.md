@@ -1,40 +1,19 @@
 ## Welcome to Guoqiang Zhang's Pages
 
-You can use the [editor on GitHub](https://github.com/zgqmwy/GuoqiangZhang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zgqmwy/GuoqiangZhang/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Guoqiang Zhang</h1>
+      <p><b>Assistant Professor</b></p>
+      <p><b>Key Lab of Mathematics Mechanization, Academy of Mathematics and Systems Science, Chinese Academy of Sciences</b></p>
+      <p><b>Email: gqzhang(AT)amss(dot)ac(DOT)cn</b></p>
+      <p><b>Address: No.55 Zhongguancun East Road, 100190, Beijing</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpeg" width="100%">      
+    </td>
+  </tr>
+</table>
 
 ### Research Interests
 
@@ -59,19 +38,6 @@ Mathematical Physics and Integrable Systems
 5. The *n*-Component Nonlinear Schrödinger Equations: Dark–Bright Mixed N- and High-Order Solitons and Breathers, and Dynamics, Proc. R. Soc. A 474 (2018) 20170688.
 6. Interactions of Localized Wave Structures and Dynamics in the Defocusing Coupled Nonlinear Schrödinger Equations, Phys. Rev. E 95 (2017) 042201.
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Guoqiang Zhang</h1>
-      <p><b>Assistant Professor</b></p>
-      <p><b>Key Lab of Mathematics Mechanization, Academy of Mathematics and Systems Science, Chinese Academy of Sciences</b></p>
-      <p><b>Email: gqzhang(AT)amss(dot)ac(DOT)cn</b></p>
-      <p><b>Address: No.55 Zhongguancun East Road, 100190, Beijing</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpeg" width="100%">      
-    </td>
-  </tr>
-</table>
+
 
 
