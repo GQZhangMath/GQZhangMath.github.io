@@ -6,7 +6,7 @@
       <h1>Guoqiang Zhang</h1>
       <p><b>Assistant Professor</b></p>
       <p><b>Key Lab of Mathematics Mechanization, Academy of Mathematics and Systems Science, Chinese Academy of Sciences</b></p>
-      <p><b>Email: gqzhang(AT)amss(dot)ac(DOT)cn</b></p>
+      <p><b>Email: gqzhang(AT)amss(DOT)ac(DOT)cn</b></p>
       <p><b>Address: No.55 Zhongguancun East Road, 100190, Beijing</b></p>
     </td>
     <td width="25%">
@@ -22,9 +22,9 @@ Mathematical Physics and Integrable Systems
 
 ### Education 
 
-2014.09-2019.07  Ph.D., Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+2014.09-2019.07,  Doctorate in Applied Mathemathics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 
-### Working Experience
+### Employment
 
 * 2021.07-present,  Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 * 2019.07-2021.07,  Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
