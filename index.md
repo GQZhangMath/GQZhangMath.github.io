@@ -22,12 +22,12 @@ Mathematical Physics and Integrable Systems
 
 ### Education 
 
-2014.09-2019.07  Ph.D., Academy of Mathematics and Systems Science, CAS
+2014.09-2019.07  Ph.D., Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 
 ### Working Experience
 
-* 2021.07-present  Assistant Professor, Academy of Mathematics and Systems Science, CAS
-* 2019.07-2021.07  Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
+* 2021.07-present,  Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+* 2019.07-2021.07,  Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
 
 ### Publications
 
