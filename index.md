@@ -65,7 +65,7 @@ Mathematical Physics and Integrable Systems
       <h1>Guoqiang Zhang</h1>
       <p><b>Assistant Professor</b></p>
       <p><b>Key Lab of Mathematics Mechanization, Academy of Mathematics and Systems Science, Chinese Academy of Sciences</b></p>
-      <p><b>Email: gqzhang@amss.ac.cn</b></p>
+      <p><b>Email: gqzhang(AT)amss(dot)ac(DOT)cn</b></p>
       <p><b>Address: No.55 Zhongguancun East Road, 100190, Beijing</b></p>
     </td>
     <td width="25%">
