@@ -18,12 +18,14 @@
 
 ### Research Interests
 
-Mathematical Physics and Integrable Systems
+* Mathematical Physics and Integrable Systems 
+* Nonlinear Wave Theory and Its Application
+* Riemann-Hilbert Problem and Asymptotic Theory
 
 
 ### Education 
 
-2014.09-2019.07:  Ph. D., Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+2014.09-2019.07:  Ph.D. in Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 
 ### Employment
 
@@ -32,7 +34,7 @@ Mathematical Physics and Integrable Systems
 
 ### Awards
 
-* 2021 Outstanding Ph. D. Thesis Award of Chinese Academy of Sciences（中国科学院优秀博士学位论文）
+* 2021 Outstanding Ph.D. Thesis Award of Chinese Academy of Sciences（中国科学院优秀博士学位论文）
 * 2019 President Award of Chinese Academy of Sciences（中国科学院院长优秀奖）
 
 ### Publications
