@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Guoqiang Zhang's Pages
 
 You can use the [editor on GitHub](https://github.com/zgqmwy/GuoqiangZhang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
