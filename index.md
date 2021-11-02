@@ -8,7 +8,7 @@
       <p><b>Key Lab of Mathematics Mechanization, Academy of Mathematics and Systems Science, Chinese Academy of Sciences</b></p>
       <p><b>Office: S618, Siyuan Building</b></p>
       <p><b>Email: gqzhang(AT)amss(DOT)ac(DOT)cn</b></p>
-      <p><b>Address: No.55 Zhongguancun East Road, 100190, Beijing</b></p>
+      <p><b>Address: No.55, Zhongguancun East Road, 100190, Beijing</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpeg" width="100%">      
@@ -23,16 +23,16 @@ Mathematical Physics and Integrable Systems
 
 ### Education 
 
-2014.09-2019.07,  Doctorate in Applied Mathemathics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+2014.09-2019.07:  Ph. D., Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 
 ### Employment
 
-* 2021.07-present,  Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-* 2019.07-2021.07,  Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
+* 2021.07-present:  Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+* 2019.07-2021.07:  Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
 
 ### Awards
 
-* 2021 Outstanding Ph.D. Thesis Award of Chinese Academy of Sciences（中国科学院优秀博士学位论文）
+* 2021 Outstanding Ph. D. Thesis Award of Chinese Academy of Sciences（中国科学院优秀博士学位论文）
 * 2019 President Award of Chinese Academy of Sciences（中国科学院院长优秀奖）
 
 ### Publications
