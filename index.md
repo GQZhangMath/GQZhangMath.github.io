@@ -6,9 +6,9 @@
       <h1>Guoqiang Zhang（张国强）</h1>
       <p><b>Assistant Professor</b></p>
       <p><b>Key Lab of Mathematics Mechanization, Academy of Mathematics and Systems Science, Chinese Academy of Sciences</b></p>
-      <p><b>Office: Room 618, Siyuan Building</b></p>
-      <p><b>Email: gqzhang(AT)amss(DOT)ac(DOT)cn</b></p>
-      <p><b>Address: No.55 Zhongguancun East Road, Haidian, Beijing, China</b></p>
+      <p><b>Office:&nbsp; Room 618, Siyuan Building</b></p>
+      <p><b>Email:&nbsp; gqzhang(AT)amss(DOT)ac(DOT)cn</b></p>
+      <p><b>Address:&nbsp; No.55 Zhongguancun East Road, Haidian, Beijing, China</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpeg" width="100%">      
