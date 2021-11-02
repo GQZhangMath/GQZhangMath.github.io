@@ -25,13 +25,13 @@
 
 ### Education 
 
-2014.09--2019.07:  Ph.D. in Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+2014.09--2019.07:  &nbsp; Ph.D. in Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 
 
 ### Employment
 
-* 2021.07--present:  Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-* 2019.07--2021.07:  Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
+* 2021.07--present:  &nbsp; Assistant Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+* 2019.07--2021.07:  &nbsp; Post-Doctoral Fellow, Department of Mathematical Science, Tsinghua University
 
 
 ### Awards
