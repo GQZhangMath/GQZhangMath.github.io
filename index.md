@@ -43,7 +43,7 @@
 2. Parity-Time-Symmetric Rational Vector Rogue Waves of the *n*-Component Nonlinear Schrödinger Equation, Chaos 31 (2021) 063120.
 3. The Derivative Nonlinear Schrödinger Equation with Zero/Nonzero Boundary Conditions: Inverse Scattering Transforms and N-Double-Pole Solutions, J. Nonlinear Sci. 30 (2020) 3089-3127.
 4. Inverse Scattering Transforms and Soliton Solutions of Nonlocal mKdV Equations with Non-Zero Boundary Conditions, Physica D 402 (2020) 132170.
-5. The *n*-Component Nonlinear Schrödinger Equations: Dark–Bright Mixed N- and High-Order Solitons and Breathers, and Dynamics, Proc. R. Soc. A 474 (2018) 20170688.
+5. The *n*-Component Nonlinear Schrödinger Equations: Dark–Bright Mixed *N*- and High-Order Solitons and Breathers, and Dynamics, Proc. R. Soc. A 474 (2018) 20170688.
 6. Interactions of Localized Wave Structures and Dynamics in the Defocusing Coupled Nonlinear Schrödinger Equations, Phys. Rev. E 95 (2017) 042201.
 
 
