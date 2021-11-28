@@ -11,7 +11,7 @@
       <p><b>Address:&nbsp; No.55 East Road, Zhongguancun, Haidian District, Beijing, P.R. China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpeg" width="100%">      
+      <img src="/zhengjianzhao.JPG" width="100%">      
     </td>
   </tr>
 </table>
