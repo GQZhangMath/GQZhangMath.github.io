@@ -43,7 +43,7 @@
 
 ### Publications
 
-1. **G. Zhang**, L. Ling, Z. Yan, Multi-Component Nonlinear Schrödinger Equations with Nonzero Boundary Conditions: Higher-Order Vector Peregrine Solitons and Asymptotic Estimates, J. Nonlinear Sci. 31 (2021) 1-51.
+1. **G. Zhang**, L. Ling, Z. Yan, Multi-Component Nonlinear Schrödinger Equations with Nonzero Boundary Conditions: Higher-Order Vector Peregrine Solitons and Asymptotic Estimates, J. Nonlinear Sci. 31 (2021) 1-51.[PDF](https://link.springer.com/article/10.1007/s00332-021-09735-z)
 2. **G. Zhang**, L. Ling, Z. Yan, V. Konotop, Parity-Time-Symmetric Rational Vector Rogue Waves of the *n*-Component Nonlinear Schrödinger Equation, Chaos 31 (2021) 063120.
 3. **G. Zhang**, Z. Yan, The Derivative Nonlinear Schrödinger Equation with Zero/Nonzero Boundary Conditions: Inverse Scattering Transforms and *N*-Double-Pole Solutions, J. Nonlinear Sci. 30 (2020) 3089-3127.
 4. **G. Zhang**, Z. Yan, Inverse Scattering Transforms and Soliton Solutions of Nonlocal mKdV Equations with Non-Zero Boundary Conditions, Physica D 402 (2020) 132170.
