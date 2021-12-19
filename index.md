@@ -48,7 +48,7 @@
 3. **G. Zhang**, Z. Yan, The Derivative Nonlinear Schrödinger Equation with Zero/Nonzero Boundary Conditions: Inverse Scattering Transforms and *N*-Double-Pole Solutions, [J. Nonlinear Sci.](https://doi.org/10.1007/s00332-020-09645-6) 30 (2020) 3089-3127.
 4. **G. Zhang**, Z. Yan, Inverse Scattering Transforms and Soliton Solutions of Nonlocal mKdV Equations with Non-Zero Boundary Conditions, [Physica D](https://doi.org/10.1016/j.physd.2019.132170) 402 (2020) 132170.
 5. **G. Zhang**, Z. Yan, The *n*-Component Nonlinear Schrödinger Equations: Dark–Bright Mixed *N*- and High-Order Solitons and Breathers, and Dynamics, [Proc. R. Soc. A](https://doi.org/10.1098/rspa.2017.0688) 474 (2018) 20170688.
-6. **G. Zhang**, Z. Yan, X. Wen, Y. Chen, Interactions of Localized Wave Structures and Dynamics in the Defocusing Coupled Nonlinear Schrödinger Equations, [Phys. Rev. E](https://doi.org/10.1103/PhysRevE.95.042201) 95 (2017) 042201.
+6. **G. Zhang**, Z. Yan, X. Wen, Y. Chen, Interactions of Localized Wave Structures and Dynamics in the Defocusing Coupled Nonlinear Schrödinger Equations, [Phys. Rev. E](https://doi.org/10.1103/PhysRevE.95.042201) 95 (2017) 042201
 
 
 
