@@ -1,1 +1,0 @@
-# GQZhangMath.github.io
