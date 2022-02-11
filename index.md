@@ -20,8 +20,8 @@
 ### Research Interests
 
 * Mathematical Physics and Integrable Systems 
-* Nonlinear Wave Theory and Its Application
-* Riemann-Hilbert Problem and Asymptotic Theory
+* Nonlinear Wave Theory and Its Applications
+* Asymptotic Theory and Riemann-Hilbert Problem
 
 
 ### Education 
