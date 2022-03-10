@@ -38,7 +38,7 @@
 ### Honors and Awards
 
 * 2021 Outstanding Ph.D. Thesis Award of Chinese Academy of Sciences（中国科学院优秀博士学位论文）
-* 2019 President Award of Chinese Academy of Sciences（中国科学院院长优秀奖）
+* 2019 President Award of Chinese Academy of Sciences（中国科学院院长奖）
 
 
 ### Publications
